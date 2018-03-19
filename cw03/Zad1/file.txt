@@ -1,0 +1,7 @@
+ls -l -a .
+echo a b c d e f g h
+#BLA bla
+printenv BLA
+#BLA
+printenv BLA
+echo blablabla

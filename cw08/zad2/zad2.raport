@@ -1,0 +1,42 @@
+Zad 2
+
+Gdy wysłanie sygnału następuje do procesu, gdy żaden wątek nie ma zamaskowanego tego sygnału to:
+-SIGUSR1 - zakończenie, komunikat: User defined signal 1
+-SIGTERM - zakończenie, komunikat: Terminated
+-SIGKILL  - zakończenie, komunikat: Killed
+-SIGSTOP - zaptrzymanie, komunikat: [1]+Zatrzymano
+
+Gdy wysłanie sygnału następuje do procesu, gdy główny wątek programu ma zamaskowany ten sygnał, a wszystkie pozostałe wątki nie
+-SIGUSR1 - brak reakcji na sygnał,jeśli sygnał zostanie wyslany do głównego wątku lub ubicie jeśli zostanie dostarczony do innego wątku
+-SIGTERM - brak reakcji na sygnał,jeśli sygnał zostanie wyslany do głównego wątku lub ubicie jeśli zostanie dostarczony do innego wątku
+-SIGKILL  - zakończenie, komunikat: Killed
+-SIGSTOP - zaptrzymanie, komunikat: [1]+Zatrzymano
+
+Gdy wysłanie sygnału następuje do procesu, gdy wszystkie wątki mają zainstalowaną niestandardową procedurę obsługi przerwania, która wypisuje informację o nadejściu tego sygnału oraz PID i TID danego wątku
+-SIGUSR1 - sygnał obsłużony i program działa dalej
+-SIGTERM - sygnał obsłużony i program działa dalej
+-SIGKILL  - zakończenie, komunikat: Killed
+-SIGSTOP - zaptrzymanie, komunikat: [1]+Zatrzymano
+
+Gdy wysłanie sygnału następuje do wątku z zamaskowanym tym sygnałem
+-SIGUSR1 - brak reakcji na sygnał, program wykonuje się prawidłowo
+-SIGTERM - brak reakcji na sygnał, program wykonuje się prawidłowo
+-SIGKILL  - zakończenie, komunikat: Killed
+-SIGSTOP - zaptrzymanie, komunikat: [1]+Zatrzymano
+
+Gdy wysłanie sygnału  następuje do wątku, w którym zmieniona jest procedura obsługi sygnału, jak przedstawiono w punkcie 3
+-SIGUSR1 - sygnał obsłużony i program działa dalej, chyba że sygnał zostanie wysłany wcześniej niż ustawienie handlera dla tego sygnału
+-SIGTERM - sygnał obsłużony i program działa dalej, chyba że sygnał zostanie wysłany wcześniej niż ustawienie handlera dla tego sygnału
+-SIGKILL  - zakończenie, komunikat: Killed
+-SIGSTOP - zaptrzymanie, komunikat: [1]+Zatrzymano
+
+Zad2b
+Gdy w jednym wątku następuje dzielenie przez zero generowany jest sygnał SIGFPE i wszystkie wątki oraz cały program zostają natychmiastowo zatrzymane. W konsoli pojawia się komunikat Floating point exception (zrzut pamięci).
+System operacyjny to Linux Fedora 21, a wersja jądra:4.8.6-300.fc25.x86_64
+
+
+
+
+
+
+

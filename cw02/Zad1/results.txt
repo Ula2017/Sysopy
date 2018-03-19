@@ -1,0 +1,83 @@
+
+Time of sys operation generate. Record number: 500, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation shuffle. Record number: 500, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation shuffle. Record number: 500, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation sort. Record number: 500, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation sort. Record number: 500, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation generate. Record number: 2000, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation shuffle. Record number: 2000, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation shuffle. Record number: 2000, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation sort. Record number: 2000, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation sort. Record number: 2000, size of record: 4. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation generate. Record number: 2000, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation shuffle. Record number: 2000, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation shuffle. Record number: 2000, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation sort. Record number: 2000, size of record: 512. 
+usertime: 0.0700000000, systime: 1.5300000000 
+Time of lib operation sort. Record number: 2000, size of record: 512. 
+usertime: 0.3600000000, systime: 1.7300000000 
+Time of sys operation generate. Record number: 500, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation shuffle. Record number: 500, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of lib operation shuffle. Record number: 500, size of record: 512. 
+usertime: 0.0000000000, systime: 0.0000000000 
+Time of sys operation sort. Record number: 500, size of record: 512. 
+usertime: 0.0400000000, systime: 1.0800000000 
+Time of lib operation sort. Record number: 500, size of record: 512. 
+usertime: 0.4200000000, systime: 1.8000000000 
+Time of sys operation generate. Record number: 500, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0100000000 
+Time of sys operation shuffle. Record number: 500, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0300000000 
+Time of lib operation shuffle. Record number: 500, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0400000000 
+Time of sys operation sort. Record number: 500, size of record: 4096. 
+usertime: 3.1900000000, systime: 61.3300000000 
+Time of lib operation sort. Record number: 500, size of record: 4096. 
+usertime: 21.2300000000, systime: 101.8500000000 
+Time of sys operation generate. Record number: 2000, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0500000000 
+Time of sys operation shuffle. Record number: 2000, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0400000000 
+Time of lib operation shuffle. Record number: 2000, size of record: 4096. 
+usertime: 0.0000000000, systime: 0.0600000000 
+Time of sys operation sort. Record number: 2000, size of record: 4096. 
+usertime: 3.4100000000, systime: 73.2700000000 
+Time of lib operation sort. Record number: 2000, size of record: 4096. 
+usertime: 16.6400000000, systime: 61.4300000000 
+Time of sys operation generate. Record number: 500, size of record: 8192. 
+usertime: 0.0000000000, systime: 0.0200000000 
+Time of sys operation shuffle. Record number: 500, size of record: 8192. 
+usertime: 0.0000000000, systime: 0.0500000000 
+Time of lib operation shuffle. Record number: 500, size of record: 8192. 
+usertime: 0.0200000000, systime: 0.0600000000 
+Time of sys operation sort. Record number: 500, size of record: 8192. 
+usertime: 10.9700000000, systime: 150.3100000000 
+Time of lib operation sort. Record number: 500, size of record: 8192. 
+usertime: 61.0300000000, systime: 224.4100000000 
+Time of sys operation generate. Record number: 2000, size of record: 8192. 
+usertime: 0.0000000000, systime: 0.0900000000 
+Time of sys operation shuffle. Record number: 2000, size of record: 8192. 
+usertime: 0.0000000000, systime: 0.0600000000 
+Time of lib operation shuffle. Record number: 2000, size of record: 8192. 
+usertime: 0.0200000000, systime: 0.0700000000 
+Time of sys operation sort. Record number: 2000, size of record: 8192. 
+usertime: 10.8300000000, systime: 169.4400000000 
+Time of lib operation sort. Record number: 2000, size of record: 8192. 
+usertime: 64.3200000000, systime: 233.4300000000 
+
+Sortowanie robionę funkcjami systemowymi jest szybsze od sortowania implementowanego funkcjami bibliotecznymi. Dla 2000 recordow o rozmiarze 4096 czas sortowania funkcjami bibliotecznymi jest mniejszy.Zauważyłam też, że permutacje również działają szybciej na funkcjach systemowych.

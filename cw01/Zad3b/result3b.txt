@@ -1,0 +1,423 @@
+STATIC -O:
+Time of creating contact list: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0486710000 , usertime: 0.0000050000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000710000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000100000 , usertime: 0.0000000000, systime: 0.0000000000 
+SHARED -O:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0488540000 , usertime: 0.0000040000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000300000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000120000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -O:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0492430000 , usertime: 0.0000050000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000540000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000180000 , usertime: 0.0000000000, systime: 0.0000000000 
+STATIC -O1:
+Time of creating contact list: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000060000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0491670000 , usertime: 0.0000040000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000600000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000140000 , usertime: 0.0000000000, systime: 0.0000000000 
+SHARED -O1:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0492530000 , usertime: 0.0000050000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000290000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000110000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -O1:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0487410000 , usertime: 0.0000040000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000780000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000140000 , usertime: 0.0000000000, systime: 0.0000000000 
+STATIC -O2:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0355340000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000710000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000110000 , usertime: 0.0000000000, systime: 0.0000000000 
+SHARED -O2:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000100000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000060000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0360290000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000380000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000120000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -O2:
+Time of creating contact list: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000110000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0351840000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000920000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000170000 , usertime: 0.0000000000, systime: 0.0000000000 
+STATIC -O3:
+Time of creating contact list: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0351940000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000740000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000130000 , usertime: 0.0000000000, systime: 0.0000000000 
+SHARED -O3:
+Time of creating contact list: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000090000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000060000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0355410000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000470000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000120000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -O3:
+Time of creating contact list: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0353240000 , usertime: 0.0000030000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000240000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000100000 , usertime: 0.0000000000, systime: 0.0000000000
+STATIC -Os:
+Time of creating contact list: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0208120000 , usertime: 0.0000020000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000680000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000120000 , usertime: 0.0000000000, systime: 0.0000000000 
+SHARED -Os:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000100000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000060000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0243660000 , usertime: 0.0000020000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000550000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000120000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -Os:
+Time of creating contact list: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0247360000 , usertime: 0.0000020000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000290000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000150000 , usertime: 0.0000000000, systime: 0.0000000000 
+STATIC-Og:
+Time of creating contact list: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0489720000 , usertime: 0.0000050000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000890000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000200000 , usertime: 0.0000000000, systime: 0.0000000000
+SHARED -Og:
+Time of creating contact list: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0500580000 , usertime: 0.0000040000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000800000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000110000 , usertime: 0.0000000000, systime: 0.0000000000 
+DYNAMIC -Og:
+Time of creating contact list: 
+realtime: 0.0000030000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of creating contact tree
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000
+Time of adding contact to the tree:
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of adding contact to the list:
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list pessimistic: 
+realtime: 0.0000050000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from list optimisitc: 
+realtime: 0.0000010000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of removing contact from tree: 
+realtime: 0.0000040000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in tree: 
+realtime: 0.0000020000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of sort contact in list by phone number: 
+realtime: 0.0503540000 , usertime: 0.0000050000, systime: 0.0000000000 
+Time of finding contact in list pessimistic: 
+realtime: 0.0000420000 , usertime: 0.0000000000, systime: 0.0000000000 
+Time of finding contact in list optimistic: 
+realtime: 0.0000110000 , usertime: 0.0000000000, systime: 0.0000000000
+
+
+Nie mogłam zauważyć dużych różnic miedzy czasami wykonywania programu w zależności od sposobu ładowania biblioteki oraz stopnia optymalizacji. Może być to spowodowane zbyt małą ilością danych i faktem, że za kazdym razem dane mogły być trochę inne( z każdym wywołaniem programu generowane były nowe dane z tej samej puli ). Zauważyłam, że w przypadku optymalizacji w celu minimalizacji rozmiaru pliku wykonywalnego czasy sortowania są mniejsze niż w pozostałych przypadkach.
+
+
+
+
+
+
